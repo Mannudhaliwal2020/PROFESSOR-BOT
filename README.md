@@ -68,15 +68,15 @@
 * `SINGLE_BUTTON` : choose b/w single or double buttons 
 * `P_TTI_SHOW_OFF` : Customize Result Buttons to Callback or Url by (True = url / False = callback)
 ### Url Shortner Variable
-* `SHORT_URL` : Url Of Shortner Site You Use
-* `SHORT_API` : Api Key Of Shortner Which You Use
+* `SHORT_URL` : Shareus.io
+* `SHORT_API` :  ZpHwaPssGgRYlZFewp9xXtTBO2p
 
 
 ## Deploy to Heroku
 
 <a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                     
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/PROFESSOR-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mannudhaliwal2020/PROFESSOR-BOT)
 
 ## Deploy to Koyeb
 
